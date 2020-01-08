@@ -1,0 +1,12 @@
+09/12/2019 15:15:56 DEBUG LogsCheck.HelloLog4J - Debug message
+09/12/2019 15:15:56 INFO  LogsCheck.HelloLog4J - Info message
+09/12/2019 15:15:56 ERROR LogsCheck.HelloLog4J - Error message
+09/12/2019 15:16:03 DEBUG LogsCheck.HelloLog4J - Debug message
+09/12/2019 15:16:03 INFO  LogsCheck.HelloLog4J - Info message
+09/12/2019 15:16:03 ERROR LogsCheck.HelloLog4J - Error message
+09/12/2019 15:20:42 DEBUG LogsCheck.HelloLog4J - Debug message
+09/12/2019 15:20:42 INFO  LogsCheck.HelloLog4J - Info message
+09/12/2019 15:20:42 ERROR LogsCheck.HelloLog4J - Error message
+09/12/2019 15:26:50 DEBUG LogsCheck.HelloLog4J - Debug message
+09/12/2019 15:26:50 INFO  LogsCheck.HelloLog4J - Info message
+09/12/2019 15:26:50 ERROR LogsCheck.HelloLog4J - Error message
