@@ -1,3 +1,0 @@
-DEBUG   2019-12-09 16:00:59,116 [main] com.LogsCheck.Log4JUsingPropertyFile  - Debug message
-INFO    2019-12-09 16:00:59,116 [main] com.LogsCheck.Log4JUsingPropertyFile  - Info message
-ERROR   2019-12-09 16:00:59,116 [main] com.LogsCheck.Log4JUsingPropertyFile  - Error message

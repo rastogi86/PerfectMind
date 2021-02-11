@@ -1,6 +1,0 @@
-09/12/2019 15:14:59 DEBUG LogsCheck.HelloLog4J - Debug message
-09/12/2019 15:14:59 INFO  LogsCheck.HelloLog4J - Info message
-09/12/2019 15:14:59 ERROR LogsCheck.HelloLog4J - Error message
-09/12/2019 15:15:18 DEBUG LogsCheck.HelloLog4J - Debug message
-09/12/2019 15:15:18 INFO  LogsCheck.HelloLog4J - Info message
-09/12/2019 15:15:18 ERROR LogsCheck.HelloLog4J - Error message
