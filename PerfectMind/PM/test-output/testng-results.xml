@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="3066" started-at="2021-02-11T08:52:21Z" finished-at="2021-02-11T08:52:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="3066" started-at="2021-02-11T08:52:21Z" finished-at="2021-02-11T08:52:24Z">
+      <class name="com.perfectmind.testcases.LoginTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.perfectmind.testcases.LoginTest@2ca26d77]" name="init" is-config="true" duration-ms="3323" started-at="2021-02-11T08:52:18Z" finished-at="2021-02-11T08:52:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.perfectmind.testcases.LoginTest@2ca26d77]" name="Login" duration-ms="2456" started-at="2021-02-11T08:52:21Z" finished-at="2021-02-11T08:52:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="getScreenshots(org.testng.ITestResult)[pri:0, instance:com.perfectmind.testcases.LoginTest@2ca26d77]" name="getScreenshots" is-config="true" duration-ms="590" started-at="2021-02-11T08:52:23Z" finished-at="2021-02-11T08:52:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Login status=SUCCESS method=LoginTest.Login()[pri:0, instance:com.perfectmind.testcases.LoginTest@2ca26d77] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getScreenshots -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.perfectmind.testcases.LoginTest@2ca26d77]" name="tearDown" is-config="true" duration-ms="633" started-at="2021-02-11T08:52:24Z" finished-at="2021-02-11T08:52:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.perfectmind.testcases.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
